@@ -1,0 +1,209 @@
+<mxfile host="app.diagrams.net" modified="2023-10-04T13:30:56.899Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="0i3kCL3vM5vcyJ0Tp41h" version="22.0.2" type="device" pages="2">
+  <diagram id="qWnddzKYrmiB0v4TEARD" name="C2">
+    <mxGraphModel dx="3668" dy="1992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HUn5ys3PVYLcyFDkF0eG-1" target="_GZ8XMmYTQ6IhnqN8hqN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Farmer" c4Type="Person" c4Description="A farmer that sells his products" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="HUn5ys3PVYLcyFDkF0eG-1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-50.5" y="-9" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HUn5ys3PVYLcyFDkF0eG-2" target="_GZ8XMmYTQ6IhnqN8hqN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="User" c4Type="Person" c4Description="Person that wants to buy products from farmers." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="HUn5ys3PVYLcyFDkF0eG-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="218.5" y="-9" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-2" target="_GZ8XMmYTQ6IhnqN8hqN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Front-end Application" c4Container="Container" c4Technology="Javascript, Next.js" c4Description="Description of web browser container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-2">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="64" y="235" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-3" target="_GZ8XMmYTQ6IhnqN8hqN-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="API Gateway" c4Type="container" c4Technology="Kong" c4Description="Description of container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="64" y="437" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Message Bus" c4Container="Container" c4Technology="MassTransit" c4Description="Description of message bus type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-4">
+          <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-196" y="1108" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Farmer Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-5">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-699" y="647" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-6" target="_GZ8XMmYTQ6IhnqN8hqN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Farm Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-6">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-436" y="647" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-7" target="_GZ8XMmYTQ6IhnqN8hqN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Product Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-7">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-176" y="647" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-8" target="_GZ8XMmYTQ6IhnqN8hqN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Order Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-8">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="84" y="647" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-9" target="_GZ8XMmYTQ6IhnqN8hqN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="User Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-9">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="860" y="647" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-10" target="_GZ8XMmYTQ6IhnqN8hqN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Review Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-10">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="334" y="651" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-11" target="_GZ8XMmYTQ6IhnqN8hqN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Message Service" c4Container="Container" c4Technology=".NET API" c4Description="Description of microservice type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-11">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="593" y="651" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Farmer Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Farmer data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-13">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-719" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Farm Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Farm data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-15">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-456" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Product Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Product data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-16">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-196" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Order Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Order data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-17">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="64" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Review Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Review data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-18">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="314" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Message Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores Message data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-19">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="573" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="User Database" c4Container="Container" c4Technology="PostgreSQL" c4Description="Stores User data." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-20">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="840" y="891" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-5" target="_GZ8XMmYTQ6IhnqN8hqN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-4" target="_GZ8XMmYTQ6IhnqN8hqN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-207" y="1173" />
+              <mxPoint x="-207" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GZ8XMmYTQ6IhnqN8hqN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_GZ8XMmYTQ6IhnqN8hqN-4" target="_GZ8XMmYTQ6IhnqN8hqN-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="52" y="1173" />
+              <mxPoint x="52" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Auth0 SSO Server" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_GZ8XMmYTQ6IhnqN8hqN-53">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="416" y="356" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="C1" id="YXl9r4sjUfyZYGHxAJlJ">
+    <mxGraphModel dx="989" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Farmer" c4Type="Person" c4Description="A farmer that sells his products" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="oWbtB6XDNLe8r3qv09uv-1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="256" y="339" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="User" c4Type="Person" c4Description="Person that wants to buy products from farmers." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="oWbtB6XDNLe8r3qv09uv-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="525" y="339" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="BoerenBooschap" c4Type="Software System" c4Description="System that enables farmers to sell products directly to consumers." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="oWbtB6XDNLe8r3qv09uv-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="369" y="647" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="oWbtB6XDNLe8r3qv09uv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWbtB6XDNLe8r3qv09uv-2" target="oWbtB6XDNLe8r3qv09uv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWbtB6XDNLe8r3qv09uv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWbtB6XDNLe8r3qv09uv-1" target="oWbtB6XDNLe8r3qv09uv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
